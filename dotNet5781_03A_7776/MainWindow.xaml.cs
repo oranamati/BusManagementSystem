@@ -14,7 +14,7 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 using dotNet5781_02_0406_3977;
 
-namespace dotNet5781_03A_0406_3977
+namespace dotNet5781_03A_7776
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
