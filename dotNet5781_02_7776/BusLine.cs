@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Device.Location;
 
-namespace dotNet5781_02_0406_3977
+namespace dotNet5781_02_7776
 {
     public class BusLine : IComparable
 
