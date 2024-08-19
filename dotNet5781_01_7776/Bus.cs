@@ -9,7 +9,7 @@ using System.Linq;
     using System.Threading.Tasks;
 
 
-//Tamar Gavrieli 322533977 & Odeya Sadoun 212380406
+//ora namati 211517776
 //Exercize number 1
 
 
