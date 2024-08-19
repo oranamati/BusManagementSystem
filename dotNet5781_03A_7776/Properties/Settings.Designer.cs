@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace dotNet5781_03A_0406_3977.Properties
+namespace dotNet5781_03A_7776.Properties
 {
 
 
