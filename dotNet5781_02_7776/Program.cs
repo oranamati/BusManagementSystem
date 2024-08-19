@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-//Tamar Gavrieli 322533977 && Odeya Sadoun 212380406
+//ora namati 211517776
 
-namespace dotNet5781_02_0406_3977
+namespace dotNet5781_02_7776
 {
     class Program
     {
